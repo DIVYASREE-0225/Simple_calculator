@@ -1,1 +1,1 @@
-This repository contains the code for a simple calculator application. The code allows users to perform basic arithmetic operations such as addition, subtraction, multiplication, division, exponential and square root . Feel free to explore the code and use it for educational purposes or as a reference for building your own calculator application.
+
